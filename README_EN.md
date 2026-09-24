@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md)
 
-#### Radmin VPN is not a VPN in the usual sense and will not help you bypass restrictions. Recommended alternative: [vpnacademy.com](https://vpnacademy.com)</br>
+#### Radmin VPN is not a VPN in the usual sense and will not help you bypass restrictions. Recommended alternative: [vpnacademy.com](https://vpnacademy.com/?utm_source=github&utm_campaign=git_radminvpn)</br>
 
 Official website: [radmin-vpn.com](https://www.radmin-vpn.com/)</br>
 Free download: [radmin-vpn.com](https://www.radmin-vpn.com/) (current version 2.1.4951.1)</br>

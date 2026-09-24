@@ -1,6 +1,6 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md)
 
-#### Radmin VPN 并非通常意义上的 VPN，无法帮你绕过访问限制。推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/)</br>
+#### Radmin VPN 并非通常意义上的 VPN，无法帮你绕过访问限制。推荐替代方案：[vpnforchinese.com](https://www.vpnforchinese.com/?utm_source=github&utm_campaign=git_radminvpn)</br>
 
 官方网站（radmin vpn 官网）：[radmin-vpn.com](https://www.radmin-vpn.com/)</br>
 官方中文页：[radmin-vpn.com/cn](https://www.radmin-vpn.com/cn/)</br>

@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский
 
-#### Radmin VPN — не VPN в привычном смысле и не поможет обойти ограничения. Рекомендуемая альтернатива: [vpnacademy.net](https://vpnacademy.net)</br>
+#### Radmin VPN — не VPN в привычном смысле и не поможет обойти ограничения. Рекомендуемая альтернатива: [vpnacademy.net](https://vpnacademy.net/?utm_source=github&utm_campaign=git_radminvpn)</br>
 
 Официальный сайт: [radmin-vpn.com](https://www.radmin-vpn.com/)</br>
 Официальная русская страница: [radmin-vpn.com/ru](https://www.radmin-vpn.com/ru/)</br>
